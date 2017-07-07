@@ -43,7 +43,8 @@ class CustomHandler(SimpleHTTPServer.SimpleHTTPRequestHandler):
         return(CustomHandler.packages[indx])
 
 
-httpd = SocketServer.ThreadingTCPServer(('localhost', PORT),CustomHandler)
+#httpd = SocketServer.ThreadingTCPServer(('localhost', PORT),CustomHandler)
+httpd = SocketServer.ThreadingTCPServer(('0.0.0.0', PORT),CustomHandler)
 CustomHandler.load_packages()
 
 print "serving at port", PORT
