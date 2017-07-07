@@ -10,8 +10,7 @@ import os
 import random
 
 
-PORT = 8080
-
+PORT = 8000
 
 class CustomHandler(SimpleHTTPServer.SimpleHTTPRequestHandler):
     
