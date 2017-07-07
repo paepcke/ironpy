@@ -1,0 +1,603 @@
+asciilove 	Convert images to ASCII art in your command line
+glyphviewer 	A Django app for examining web fonts and the characters they contain.
+kdenlive-tools 	Command line tools for Kdenlive projects.
+Kivy 	A software library for rapid development of hardware-accelerated multitouch applications.
+m5fahrrad 	M5Fahrrad analyses my bike messenger data.
+metasyntactic 	metasyntactic - Themed metasyntactic variables names
+prose-wc 	Jekyll-aware prose wordcount utility
+random-cat 	Modul/Command Line Tool to get cat images
+cropper 	Simple image slicing program
+diapason 	Python module to deal with note sounds.
+fluid-nexus 	PyQt4 application that enables one to share messages and data independent of centralized data networks
+gnofract4d 	A program to create fractal images
+Titelouze 	Framework to easily build LilyPond books.
+vis-framework 	The VIS Framework for Music Analysis
+WinWallpaper 	Windows Background Changer
+aperturesynth 	A tool for registering and combining series of handheld photographs
+athenaCL 	modular poly-paradigm algorithmic music composition in a cross-platform interactive command-line environment.
+django-smileys 	Easily replace things like :) and B-) with smilies on your Django-powered site.
+django-smileys-plus 	Easily add, use and manage smileys on your Django-powered site.
+django-watermark 	Quick and efficient way to apply watermarks to images in Django.
+img2scad 	Image to OpenSCAD converter
+kraconvert 	Konverts Krita .kra files into PNG and JPEG.
+musictheory 	Provides classes for "music set theory"-like analysis.
+Phatch 	PHoto bATCH Processor & Renamer
+scimpy 	Speaker design and impedance measuring tool
+webgobbler 	Downloads random images from the web and mixes them.
+anikom15 	Anikom15’s Computer Game
+giftoa 	Python script which compiles a native binary that plays a GIF in ASCII on the terminal using ncurses.
+notizen 	Indexing and searching of personal notes.
+pica 	A curses-based probabilistic cellula automata.
+PyArtistsGallery 	Image gallery for artists
+qr2scad 	QR code to OpenSCAD converter
+randomstate 	Next-gen RandomState supporting multiple PRNGs
+text-rearranger 	a program that randomly redistributes the contents of a stream of text
+uncrumpled_kivy 	A software library for rapid development of hardware-accelerated multitouch applications.
+chordgenerator 	A Django app for enumerating chords in a scale.
+improviser 	Automatic music generation software
+matriz 	Networked Music Performance software
+mian 	Graph blocks to height in a Minecraft save game
+NameThatColor 	Find human-readable color names for hex values
+NodeBox 	Simple application for creating 2-dimensional graphics and animation using Python code
+PyMT 	A framework for making accelerated multitouch UI
+pythoneon 	a Python library for producing electronic music
+scramble 	A library for scrambling streams of text.
+summon 	A general 2D visualization prototyping module
+twyg 	Generative tree visualiser for Python
+adventure 	Colossal Cave adventure game at the Python prompt
+ao.tron 	Tron board and utilities.
+ascii_py 	Make ascii art
+AtoD 	Easy access to DotA2 internal data.
+backlog_puller 	A python module for pulling data from a backloggery account in a variety of different formats
+bacon 	Bacon Game Engine
+boardgamegeek2 	A Python interface to boardgamegeek.com's API
+boggleboard 	Manipulate and analyse anagrams and variations of Boggle boards.
+botchallenge 	A Python API for interacting with a Minecraft server plugin to control a bot.
+CLAchievements 	🟟 Command Line Achievements — Make command line fun again! 🟟
+CombatWiz 	A combat simulator
+ConwayCPU 	The Game of Life, living on your CPU
+d3gem 	Diablo 3 gem crafting helper
+Darc 	Darc is an archiving system for use in media projects that allows developers to contain and use their data files from .darc files that store data in a bz2 compressed and AES encrypted (optional) format.
+dice-notation 	Dice notation tools
+django-bingo 	Bingo
+El-Cuestionario 	A tiny web application to display and evaluate single-page questionnaires
+Endgame-Singularity 	A simulation of a true AI
+eote-dice 	Utility for analyzing EotE dice rolls.
+eRepublik_pyBot 	Bot for the game eRepublik.
+esper 	Esper is a lightweight Entity System for Python, with a focus on performance.
+fallingsky 	A game of falling blocks with RPG elements, uses pygame.
+fgmk 	A PyQt5 Maker to generate a RPG Javascript game.
+fireplace 	Pure-python Hearthstone re-implementation and simulator
+fishnet 	Distributed Stockfish analysis for lichess.org
+Flask-SL 	Basic recognition of Second Life® requests.
+fs-uae-wrapper 	Automate archives and state for fs-uae
+Fungus 	A simple scene based game engine building on pyglet.
+game24 	A console application to play the 24 game
+GameOfLife 	Conway's Game of Life - Cellular Automata.
+genedoku 	A simple python package that solves sudokus using genetic algorithms
+glicko 	An improvement of the Elo rating system
+glsvg 	OpenGL SVG Renderer
+gol 	Curses implementation of Conway's Game Of Life with an evolutionary twist
+gomill 	Tools for testing and tuning Go-playing programs
+gshogi 	A Shogi Program (Japanese Chess)
+habitica-challenge-wrangler 	Habitica Challenge Data Wrangler - pick winners from challenge data
+hearthstone 	CardDefs.xml parser and Hearthstone enums for Python
+herculeum 	Small roguelike game
+hvsi 	HvsI webapp
+hypatia_engine 	2D action adventure game engine
+hyppy 	HAPI wrapper and tools for the online game Hyperiums
+Imaginary 	Virtual simulation framework.
+imgui 	Cython-based Python bindings for dear imgui
+Kivy 	A software library for rapid development of hardware-accelerated multitouch applications.
+krpc 	Client library for kRPC, a Remote Procedure Call server for Kerbal Space Program
+krpctools 	Development tools and scripts for kRPC.
+lex4py 	Python wrapper for the SC4Devotion LEX API
+libavg 	High-level development platform for interactive installations
+mara 	A framework for network services, talkers and MUDs
+MDB 	Browse imdb data for a folder full of movies!
+meme 	Use the command line to generate memes on memegenerator.co
+mem-edit 	Multi-platform library for memory editing
+metasyntactic 	metasyntactic - Themed metasyntactic variables names
+MovieList 	A utility to catalogue and play media.
+mtxPython 	A framework to create matrix games
+mygame 	My misguided attempt to do something interesting.
+mzgeo97 	an RPG with focus on world history
+Nano-Assault 	UNKNOWN
+ninarow 	N-in-a-row Game
+osrparse 	Python implementation of osu! rhythm game replay parser.
+peachy 	A python3 game development framework
+pgoapi 	Pokemon Go API lib
+pgzero 	A zero-boilerplate 2D games framework
+PokerSleuth 	A wrapper for the Poker Sleuth Scriptable Equity Calculator
+pride 	Python runtime and integrated development environment
+privatizace 	Logical game, a homage to the old game Velká privatizace
+puzpy 	python crossword puzzle library
+puzzlepy 	Python package for generating, solving, and testing grid-based puzzle games.
+py2048-game 	PyGTK implementation of the popular 2048 game
+PyCraft 	High quality Minecraft world editor
+pydaedalus 	Python wrapper of Daedalus monochrome maze
+pydcs 	A Digital Combat Simulator mission builder framework
+pydice 	Tools for simulating dice and die-rolling
+pygtp 	Python library for Go Text Protocol controllers and engines
+py-hangman 	A 2-player version of Hangman
+pymunk 	Pymunk is a easy-to-use pythonic 2d physics library
+pyNES 	Python Programming for Nintendo 8bits
+PyNgine 	Minimalist 3D game engine
+pyrilla 	Python binding to gorilla-audio library
+pysay 	A Python version of cowsay
+pyscumm 	A SCUMM based engine for Python
+pysokoban 	A highly customizable sokoban implementation using Python's tkinter.
+pysteroids 	A clone of the game Asteroids, with some extra bells and whistles
+python-blueprint 	Magical blueprints for procedural generation of content.
+qtMUD 	framework for building and running MUDs
+roundtm 	RoundTM - A Round based Tournament Manager.
+rumbleinthejungle 	A command-line program that prints rhyming phrases.
+satbot 	Read data from commonly-available "satellite" hobby R/C receivers.
+ScreenCapture 	Take screenshots of LameStation games!
+scriptabit 	Python scripting for Habitica via the API
+sge-pygame 	A 2-D game engine for Python
+shakyo 	a tool to learn about something just by typing it
+slider 	Utilities for working with osu! files and data
+slither 	A Python module that uses PyGame to bring Scratch-like features to Python
+smserver 	An implementation of a Stepmania server
+Soya3 	A practical high-level object-oriented 3D engine for Python.
+spinekivy 	Spine skeleton renderer for Kivy framework.
+stanczyk 	Client software for the exercises in Crypto 101, the introductory book on cryptography.
+strawpy 	Strawpy is a python wrapper for the strawpoll API.
+subterrex 	A pygame based game of subterranean exploration
+sugargame2 	A fork of sugargame, a module for using pygame in the Sugar toolkit
+tacman 	A tactical, turn-based clone on PACMAN
+tale 	Interactive Fiction, MUD & mudlib framework
+tictactoe-py 	Yet another Python Tic-Tac-Toe library
+tunasloth 	an RPG engine
+Tymeventure 	A curses-based adventure game
+vrep-api-python 	Simple python binding for V-REP robotics simulator
+WordGolf 	Word game that combines Boggle-like word finding with golf.
+wowapi 	Python library for the World of Warcraft Community API
+xiangqi-setup 	Command line tool to generate razor-sharp Xiangqi (Chinese chess) setup graphics
+xo 	A Tic-tac-toe CLI game and library.
+xsge_tmx 	xSGE TMX Library
+yaurtww 	Yet Another Urban Terror Wget Wrapper.
+advent-of-code-data 	Get your puzzle data with a single import
+adventurelib 	Easy text adventures
+AISTLAB_nitrotyper 	https://www.nitrotype.com auto typer
+BalazarBrothers 	A 3D action/puzzle game.
+beam_interactive 	reference Robot implementation for Beam Interactive
+bearlibterminal 	BearLibTerminal is a pseudoterminal window library
+CAGE 	A generic and fairly complete cellular automata simulation engine.
+CatsAss 	Seriously the cats ass. Seriously.
+cbstats 	CraftBukkit Stats
+chesstab 	Database for chess games
+cocograph 	A tile editor for cocos2d.
+computercraft 	Pythonization of ComputerCraft Minecraft mod. Write Python instead Lua!
+CSBuddy 	A Counter-Strike server log file monitor and administration tool
+CursingSpock 	A SpockBot plugin for controlling the client from the terminal. Built with Curses.
+delv 	Module for making tools interoperable with Delver
+deuces 	Deuces: A pure Python poker hand evaluation library
+Dililatum 	A quest system for simple RPGs
+dogesay 	Like cowsay but doge
+dota2py 	Python tools for Dota 2
+ds4drv 	A Sony DualShock 4 userspace driver for Linux
+elo 	A rating system for chess tournaments
+E.S.P.-Hadouken 	Guide the dot through each level without touching the black areas
+eveparser 	A Python library to help parse various things that are copy/pastable from the Eve Online UI.
+factotum 	A tool to control a headless factorio server.
+figment 	A framework for creating multiplayer, text-based worlds.
+frog 	Improved and extended turtle graphics like module
+GameBaker 	High level framework for making games and simulations based on Pygame
+gameobjects 	Classes for help wth game creation
+GameSpy4Query_Python3 	Server object to query game servers using the Gamespy4 Protocol or UT3.
+ggmt 	Good Game Match Ticker - command line application for tracking matches of various e-sport games
+gitgud 	Git Gud - a utility for when you are told to 'get good'
+grailmud 	A Python MUD server
+hslog 	Hearthstone Power.log parser
+intelurls 	Parse Ingress Intel, Google Maps, and Apple Maps URLs
+ipuz 	Python library for reading and writing ipuz puzzle files
+Jouets 	Bric-à-brac de programmes mathématiques « amusants »
+Kamaelia 	Kamaelia - Multimedia & Server Development Kit
+krpc.clientgen 	Generate client source code for kRPC services.
+KTextSurfaceWriter 	A PyGame addon for display text over surface with many dimension bounds
+kytten 	GUI Framework for Pyglet
+LameStationTools 	A collection of pixelated paint tools for the LameStation.
+libtcod-cffi 	A Python cffi port of libtcod.
+macht 	A 2048 clone in python with Terminal UI
+Magnetospheres 	Physics based puzzle game - use magnets to guide balls through a series of challenging levels.
+memecomplete-desktop 	Desktop client for https://memecomplete.com.
+merlyn 	A server backend for interactive online exercises.
+mpf 	Mission Pinball Framework
+mtg-deck-editor 	A GUI deck editor for the card game Magic: The Gathering.
+mtg-ssm 	A tool to manage Magic: the Gathering collection spreadsheets.
+NBT 	Named Binary Tag Reader/Writer
+NodeBox-for-OpenGL 	2D animation with Python code
+onkyo-eiscp 	Control Onkyo receivers over ethernet.
+padsniff 	Command-line tool to sniff Puzzle & Dragons data.
+pair 	a ladder pairing/matching library
+palabra 	A free crossword editor
+py6Nimmt 	6 Nimmt! cardgame
+pyasteroids 	Python asteroids game demonstrating pyagents library
+pybass 	ctypes python module for BASS and wxPython(+Phoenix) player control for play stream or file
+pykhet 	A general library for the board game khet
+PyMunkTMX 	Load shapes from Tiled maps as pymunk objects.
+pyparadox 	PyParadox is a nix launcher for Paradox titles.
+pypubg 	Query data from Player Unknown Battleground stat tracker
+pyspacewar 	A game loosely inspired by the original Spacewar
+python-chess 	A pure Python chess library with move generation and validation, Polyglot opening book probing, PGN reading and writing, Gaviota tablebase probing, Syzygy tablebase probing and UCI engine communication.
+python-shogi 	A pure Python shogi library with move generation and validation and handling of common formats.
+PyTMX 	Map loader for TMX Files - Python 2.7
+PyVMF 	A Python library for editing Source Engine VMF files
+PyWhist 	A rather primitive bridge game
+pyword 	What's My Word
+pywumpus 	Hunt the Wumpus (1972) Python translation.
+PyZufall 	Generiert zufällige Daten wie Namen, Berufe, Bandnamen, ein Datum, Sätze oder den Datensatz einer Personen.
+ranking 	Ranking collection
+rawdata 	Generate realistic raw datasets with optional DQ issues
+rof-rcon-client 	RCon client for Rise of Flight dedicated server.
+scriptcraft 	Scriptcraft programming game - program your units to fight against other players.
+Shellpic 	Display images using escape codes
+SimpleGUICS2Pygame 	Primarily a standard Python module reimplementing the SimpleGUI particular module of CodeSkulptor (a browser Python interpreter).
+smullpeg 	a lamentable peg game
+spawningtool 	Build order parser for StarCraft 2 replays
+spunkybot 	An automated game server bot and RCON tool for Urban Terror
+stardust-rpg 	
+sudokulib 	Tools for generating solutions and starting grids for Sudoku.
+symboliczinc 	an RPG
+telegram-game 	Asyncio telegram bot framework for games
+Thanatos 	A Python library for generating EVE Online trivia questions.
+TournamentMaster 	CLI for running tournaments between chess engines
+trueskill 	The video game rating system
+vimddr 	Improve your vim reflexes!
+Wah-Cade 	A front-end for arcade games & emulators.
+where2Go 	Your weekend-adventure assistant
+whirls 	A fullscreen program that displays an animated, twisting tessellation of whirls.
+word2number 	Convert number words eg. three hundred and forty two to numbers (342).
+abalone 	Abalone strategy game
+adjutant 	A Python library for parsing StarCraft II replays.
+AEI 	Arimaa Engine Interface tools
+Anagrammer 	Anagramming tools.
+arthur 	Software for the exercises in Crypto 101, the introductory book on cryptography.
+astralnetworking 	A very high level gaming network protocol built on top of podsixnet
+battleship 	a battleship game with a curses interface
+bggcli 	Command Line Interface for BoardGameGeek.com
+bGrease 	BasicGrease: The highly extensible game engine framework for Python
+checkers 	A simple program to play Checkers with two people on the same computer.
+civ5-wallpapers 	Use Civilization V wallpapers on your Linux desktop
+conreality 	Conreality Software Development Kit (SDK) for Python
+crossword 	Python library for handling crossword puzzles
+defusedivision 	Terminal based multiplayer (and singleplayer) minesweeper
+Dieroller 	polyhedral die roller for games
+distacc 	Distributed object access
+django-bingo-autotopic 	Bingo Autotopic
+django-bingo-tweets 	Bingo Tweets
+DotStar_Emulator 	DotStar_Emulator is a Adafruit_DotStar LED strip emulator to speed up development of controller software.
+dyce 	Randomizer toolkit, with custom dice expression parser.
+easypg 	Various tools to simplify the use of Pygame
+ecm 	EVE Corp Management is a management and decision-making helper-application for EVE Online.
+edsudoku 	Utility and website for generating solvable sudoku puzzles
+elzzur 	elzzur solves a Ruzzle board, listing all the valid words with their scores.
+Empire-of-Fantasy 	A multiplayer turn-based game of fantasy
+emsm 	A lightweight, easy to extend mineraft server manager
+eveapi2 	Sane EVE Online API
+evecentral 	A small module to cache eve central prices in memory
+extrom 	ROM Extraction tool from archived ROM set file
+EzPyGame 	An easier way to use pygame
+fac-cli 	Command-line mod manager for Factorio (install, update...).
+gallows 	The word game Hangman based on 'Invent Your Own Computer Games with Python'.
+gameclock 	The Gameclock
+glooey 	An object-oriented GUI library for pyglet.
+gw2api 	Guild Wars 2 API
+hsreplay 	A library for creating and parsing HSReplay files
+inteltime 	Intel checkpoint and cycle calculator for Niantic Lab's Ingress(tm)
+jdhp-tictactoe 	Play the classic Tic-Tac-Toe game.
+jubatu-chess 	Jubatu chess plugin
+KezMenu 	A simple and basical Pygame library for fast develop of menu interfaces
+kundalini 	LÖVE-like PyGame API
+level 	Level system for games
+Lyntin 	Python-based mud client
+mal 	A command line interface to your MyAnimeList profile
+mattricks 	A free helper program for hattrick players.
+memegen 	Caption images, from command line, using ImgFlip or MemeGenerator APIs.
+memegen-desktop 	Desktop client for https://memegen.link.
+ModernGL 	ModernGL: PyOpenGL alternative
+mpyq 	A Python library for extracting MPQ (MoPaQ) files.
+multi-elo 	ELO score calculator for more than two players
+nac 	Noughts and Crosses (aka Tic Tac Toe) game implementation
+nagaram 	Scrabble anagram finder
+Naghni 	A breath-taking side-scroller focusing on round lifeforms
+nodebox-opengl 	NodeBox for OpenGL is a free, cross-platform library for generating 2D animations with Python programming code.
+nonogram-solver 	A nonogram puzzle solver.
+normalizePGN 	Helper scripts to fix PGN meta-data before importing them to Chess DB (like SCID)
+orbit_framework 	Ein Python-Framework für robuste TinkerForge-Anwendungen
+paloma 	Paloma Relational Music Management System
+Parterre 	A set of variants for the Parlance Diplomacy Framework.
+Pasty 	Serverless state management using online text services.
+peng3d 	Python and pyglet based 3D Engine and toolkit
+pgext 	Pygame Extension - set of image filters
+pgnparser 	A python PGN parser
+pi3d 	pi3d OpenGLES2 3D graphics library
+Playtools 	Playtools for RPG Software
+pokercore 	A poker engine core, in Python
+pybik 	Rubik's cube game
+pyborg 	Markov chain bot for irc which generates replies to messages
+PyCEGUI 	Python bindings for CEGUI library
+PyChess-Anderssen 	Chess client
+pycho 	A game engine for Python 2 and 3 with built in AI
+pyfov 	A Python interface to libfov.
+pyg.exe 	A binary launcher for PyGame.
+pyirrlicht 	ctypes python module for Irrlicht Engine SDK.
+pyplanet 	Maniaplanet Server Controller
+pysdl2-harness 	Some simple classes to make working with pysdl2 easier
+pysnake 	A curses-based cross-python version of Snake with zoom and rewind modes
+PySoy 	3D Game Engine for Python
+python3-openttd 	OpenTTD administration client library
+python_hangman 	Python Hangman TDD/MVC demonstration.
+python-xonotic-db 	library to read and write Xonotic databases
+PyWright 	Engine and scripting language to create and run Phoenix Wright fan cases
+quidditas 	Entity framework for games
+rayter 	Game rating command line tool
+rconbot 	Framework to write 'bots' that use the Nexuiz rcon protocol.
+redelvlib 	GUI editor using delv
+Reversi 	A version of the Reversi board game intended for casual play.
+riotwatcher 	RiotWatcher is a thin wrapper on top of the Riot Games API for League of Legends.
+rogue_scores 	online Rogue scores leaderboard
+rputils 	An application for dice rolling and reading PDF files.
+rstgo 	A package to render go diagrams and embed them in reStructuredText documents
+sappho 	2D game engine (pygame)
+sc2reader 	Utility for parsing Starcraft II replay files
+solarwolf 	SolarWolf is an action/arcade game written entirely in Python.
+solidpinball 	A digital fabrication framework for pinball machines using Python
+stargateRL 	A sci-fi rouge-like game, developed in Python using Pyglet.
+steamfront 	A simple plugin to allow you to nicely access things on the Steam API and web server.
+sudokumaker 	Genetic-Algorithm based Sudoku generator (and solver)
+sudoku-wxpython 	A Sudoku game build in wxpython
+synthpressure 	An engineer's attempt at a game engine.
+tictactoelib 	Ultimate Tic Tac Toe game logic (Lua and Python bindings)
+tmxlib 	Library for manipulating TMX tile maps
+turtlepower 	A tool for advanced use of the turtle module
+TuxFighter 	Asteroids like shooter game written in python and pygame
+twitchy-term 	A terminal tool for browsing/streaming on Twitch.tv.
+TZMud 	TZMud is a Python MUD server.
+uberpong 	An Uber-engineered PONG clone
+unicards 	Convert strings into unicode playing cards
+vmflib 	A package for creating Valve Map Format (VMF) files for the Source engine
+xsge_path 	xSGE Path
+zanthor 	Zanthor is a game where you play an evil robot castle which is powered by steam. @zanthorgame #python #pygame
+agarnet 	agar.io client and connection toolkit
+anikom15 	Anikom15’s Computer Game
+asyncdgt 	Communicate asynchronously with DGT boards
+bloobs 	Easy shooting game
+boardgamegeek 	A Python interface to boardgamegeek.com's API
+boatman 	A simple logic game.
+bouncy 	You are a hungry rabbit. Eat food to complete the level.
+cassiopeia 	Riot Games Developer API Wrapper (3rd Party)
+cbeams 	I've seen things you people wouldn't believe. Attack ships on fire off theshoulder of Orion. I watched c-beams glitter in the dark, near the TannhäuserGate. All those moments will be lost, in time, like tears in rain. Time to die.
+chessboard 	CLI to solve combinatoric chess puzzles.
+cinefiles 	Organize your movie folder and files
+collage 	Creates collages of miniature images that resemble the originals.
+Collector 	Collector is a management application
+comic-scraper 	Scraps comics,mangas and creates cbz files for offline reading
+cwmud 	Clockwork MUD server
+dice 	A library for parsing and evaluating dice notation
+dicetables 	get all combinations for any set of dice
+die 	Library for simulating dice, dice rolls, and stats on dice.
+dotapatch 	Parse Dota 2 text patches to html format.
+dynmap_timemachine 	Create extremely large images from Minecraft server's Dynmap plugin.
+ecs 	An entity/component system library for games
+eval7 	A poker hand evaluation and equity calculation library
+eveapi 	Python library for accessing the EVE Online API.
+EVELink 	Python Bindings for the EVE Online API
+FallingRocks 	Implementation of the game FallingRocks in Python
+Flappy 	Multimedia library with the Adobe Flash-like API
+ForestQuest 	An exiting RPG
+fortune3py 	Fortune cookies for Python3
+freegames 	Free Games
+gamefaqs-py 	Retrieve and manage game data from GameFAQS.
+gamerec 	Library to process 2 players' games recordings (only chess now)
+Glarf 	Side-scrolling platformer. The "Web 2.0" of games
+gridly 	A Python library for managing fixed-size 2D spaces
+Horton 	A library of grids and other fine amusements. Contains a Grid and Grid-like data structures and optional modules for rendering them with pygame, creating cellular-automata simulations, games, and such things.
+imperialism-remake 	Open source remake of Imperialism
+IVAO-status 	Status of IVAO for Linux it's an application for Linux Users to see Pilots and Controllers in the IVAO network
+kakuro 	Library to represent and solve Kakuro puzzles.
+Legenda 	Ajusta o tempo da legenda com o filme
+librarian 	Python advanced card game library.
+lolpy 	Package for Interaction with the League of Legends API
+mazingame 	A game of maze.
+mobai 	A very simple moba-inspired game engine for bots
+Motherhamster 	A 2D game engine emphasizing built-in editors
+mpf-monitor 	MPF Monitor
+mudpyl 	Python MUD client
+nesasm 	NES Assembly Compiler
+neveredit 	The neveredit NWN Module Editor
+nicedice 	Dice roller with IRC color codes
+ninjaturtle 	A re-implementation of python stdlib's turtle module
+othello 	Implementation of Othello/Reversi for AI course instruction
+overwatch-stats 	A library to query a player's overwatch stats from Battle.net
+padtools 	A package for the popular iOS & Android game "Puzzle & Dragons" (PAD)
+Panda3D 	Latest stable release, Python 2 only
+papageorge 	Simple client for the Free Internet Chess Server
+partypi 	Party Pi is a computer vision emotion detection game with OpenCV and Microsoft Oxford Emotion API.
+peerplays 	Python library for PEERPLAYS
+pica 	A curses-based probabilistic cellula automata.
+picraft 	An alternate Python interface for Minecraft.
+platformer-game 	atmospheric platformer game
+pokyr 	Poker hand evaluating modules that provide fast enumerations.Both C Extension module it's pure python analogies are included.
+pybullet 	Official Python Interface for the Bullet Physics SDK Robotics Simulator
+PyFense 	PyFense is a tower defense game built in using Python 3, the cocos2d and pyglet frameworks. If you want to contribute in any way (art, code, balancing, bug reporting) you can do so here: https://github.com/likyng/pyfense/ . Thank you!
+PyFortune 	Port of the classic fortune program to python
+pygameoflife 	An agent-based implementation of Conway's Game of Life
+pygext 	Pygame Extended: OpenGL accelerated 2D game programming framework
+pyHanoi 	An interative solver for the Towers of Hanoi game
+pykinect 	PyKinect Module for interacting with the Kinect SDK
+pymage 	Pygame helper package
+Pynames 	name generation library
+PyOpenGL_game 	Simple OpenGL game
+PyQStat 	A Python wrapper around QStat, the realtime game server status tool
+PyRisk 	Python Risk engine with assorted player interfaces.
+pyrogi 	A feature-rich roguelike game engine focused on ease of development and beauty through text graphics.
+pyschelling 	An agent-based implementation of Schelling's segregation model
+pyscroll 	Scrolling maps library for pygame and python 2.7 & 3.3+
+pyskool 	A remake of 'Skool Daze' and 'Back to Skool' using Pygame
+pySpellbook 	A PDF spellbook creation utility for d20 games in python
+pysrcds 	Python library for interacting with Source engine dedicated servers
+pySudoku 	Cross platform implementation of sudoku using python 2.4 and wxWidgets
+python-2048a 	A game engine for 2048
+python-weewar 	Python wrapper for the Weewar XML API
+qanat 	A shoot-em-up inspired by the classic Galaxians game. Repel waves of invaders using your gun turret. Manage the temperature of the turret to avoid overheating and watch your ammo level to avoid running out in the later levels.
+regalias 	Elona-like alias generator for Python, with CLI.
+rpi-dots 	Software for the DOTS board for the Raspberry Pi
+rubik-box 	Rubik's cube solver
+sgf 	Python library for reading and writing Smart Game Format
+sgfmill 	Library for reading and writing files using Smart Game Format (SGF).
+shadowloss 	A stickman-oriented game against time
+shisensho 	Shisen Sho Game
+SimpleGUITk 	A wrapper for the CodeSkulptor SimpleGUI API using TkInter
+skills 	Implementation of the TrueSkill, Glicko and Elo Ranking Algorithms
+slugathon 	Fantasy battle board game
+SoL 	Carrom tournaments management
+space-aliens 	top-down space shooter
+spine-cython 	Spine runtimes for python.
+spyse 	spyse is a development framework and platform for building multi-agent systems using the Python programming language
+stdBang 	a "Scorched Earth" -like game that uses only stdio
+stockfish 	Wraps the open-source Stockfish chess engine for easy integration into python.
+stratumgs 	A turn based game engine designed to pit autonomous players against each other.
+substances 	Substance-oriented programming
+SudokuStudyLib 	Sudoku Solving Library
+Sutekh 	VtES Card Collection Manager
+taemin 	Le plus bot du monde
+theword 	Humor inspired by `import this` and _The Trashmen_
+tictactoe 	Ultimate Tic-Tac-Toe tictactoe front-end
+tmx 	Simple TMX library.
+Trivial-Sudoku 	A trvial Python implementation of a Sudoku solver
+twitchwatcher 	A tiny wrapper for livestreamer to watch twitch streams
+umodules 	Organize your Unity Projects with uModules
+uncrumpled_kivy 	A software library for rapid development of hardware-accelerated multitouch applications.
+untdl 	DO NOT USE - tdl has been updated and is superior
+UXBgtk 	A Gtk version of the Mines game intended for casual play.
+Veripeditus 	
+WordUtils 	Word-related objects used for word searching and matching.
+xmm 	A package manager for Xonotic.
+xsge_gui 	xSGE GUI Toolkit
+xsge_lighting 	xSGE Lighting Library
+xsge_particle 	xSGE Particles
+zoid 	Commandline tool for easy hosting of project zomboid servers
+adnd2e-combat-simulator 	A tool to simulate combat in AD&D 2nd Edition
+aglar 	Standalone OpenGL agar.io Python client using pyglet and agarnet
+autosimulationcraft 	A python script to run SimulationCraft reports for World of Warcraft characters when their gear/stats/level/etc. changes.
+bofhexcuse 	Generate random BOFH themed technical excuses!
+bullet-dodger 	fun and challenging mouse game where you must dodge bullets
+ccxxv 	Crossword solving assistant
+chessproblem.ui 	The user interface to edit chessproblems for tex files using the chess-problem-diagrams latex style.
+clarent 	Shared API definitions for an online exercise system
+cocos2d 	a 2D framework for games and multimedia
+connect4 	N-in-a-row Game
+conway 	A simple, colorful Game Of Life demo on the terminal
+curses-2048 	2048 implementation with python and ncurses
+DangerUXB 	A version of the Mines game intended for casual play.
+deep-blue-talks 	bestow speech unto chess engines
+demopan 	A cross-platform Source demo organiser
+djangocms-minecraft 	A set of Django plugins that will display live Minecraft server status and information within your project.
+energy 	Energy system for social games
+esmbc 	EVE Online Ship Maintenance Bay Calculator
+EVE-SRP 	EVE Ship Replacement Program Helper
+exogene 	A tower defence type game with multiple waves of enemies attacking multiple points to defend.
+factoirc 	Bidirectional IRC bridge for Factorio
+FFGo 	A powerful graphical launcher for the FlightGear flight simulator
+fortune 	Python version of old BSD Unix fortune program
+Fyreside 	Talker-style MUD with card game features
+gauge 	Deterministic linear gauge library
+gbboxcli 	Command-line interface for gbbox
+GitBanshee 	Play sound effects when you commit, checkout and merge in git.
+glad 	Multi-Language GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.
+gravnoise 	a block-based, gravity-infused puzzle game
+grease 	Grease: The highly extensible game engine framework for Python
+halo5.py 	A wrapper for the Halo 5: Guardians API
+jubatu 	XMPP gaming client
+Kimboot 	A sick and addictive arcade game.
+kivy-okapi 	Grid-based game framework built with Kivy 1.9
+kriegspiel 	Python Kriegspiel Game
+last-train-to-nowhere 	Last Train to Nowhere
+LatinSquareSolver 	Solve Latin Squares
+lazycat 	A simple game of cat and mouse
+librarian-curator 	None
+lmj.nethack 	A pty wrapper for nethack
+lol_scraper 	A python script and library to download and store League of Legends matches with Riot API
+magic_square 	Simple operations with magic squares.
+mccurse 	Minecraft Curse CLI Client
+Mind 	Mind is library for games in Python
+minipoker 	Poker Game
+mpf-mc 	Mission Pinball Framework Media Controller
+mtg 	Console-based access to the Gatherer Magic Card Database.
+mtglib 	Magic the Gathering Python library
+mudpy 	The mudpy MUD server engine.
+NBTParse 	NBT swiss army knife
+nxturtle 	Implementation of a Python turtle for LEGO Mindstorms NXT
+otfbot 	a modular IRC-Bot
+othellotk 	Edax gui to play Othello against the Edax engine
+owyl 	The goal of Owyl: provide a fast and flexible Behavior Tree library implemented in python.
+Parang 	A set of clients for the Parlance Diplomacy Framework.
+Parlance 	A framework for playing the Diplomacy board game over a network.
+patin 	Simple develop kit for kids and programming teachers.
+pazudorasolver 	Puzzles and Dragons board solver
+pbox 	Pbox is a simple module that makes it easier to handle persistent data using pickle or json.
+PokerCards 	Python module for working with poker cards and managing games.
+pyadventure 	A text-based RPG engine for Python.
+pybrood 	Broodwar API binding
+PyChess 	A simple chess game adjudicator
+PyCross 	Singleplayer/Multiplayer Tic-Tac-Toe game
+pycsdl2 	Simple DirectMedia Layer
+pydart2 	Python Interface for DART Simulator
+pydealer 	A package for constructing decks of playing cards, for games.
+pygameui 	GUI framework for Pygame
+pyglet 	Cross-platform windowing and multimedia library
+pygnetic 	Network library for Pygame
+pyifbabel 	A pure-Python implementation of the Treaty of Babel
+PyKoan 	Game of Logic
+pymcts 	Python implementation of Monte Carlo Tree Search (MCTS)
+PyMLGame 	PyMLGame is an abstraction layer to easily build games for Mate Light inspired by PyGame.
+PyMT 	A framework for making accelerated multitouch UI
+PyRA2 	Python support for Robot Arena 2 file formats.
+pystockfish 	Wraps the open-source Stockfish chess engine for easy integration into python.
+pySudokuSolver 	A small graphical utility for solving any Sudoku puzzle, almost instantaneoulsy.
+QLDS-Manager 	Quake Live Dedicated Server Manager
+render_pipeline 	Physically Based Rendering and Deferred Shading for the Panda3D Game Engine
+riot-observer 	Python light wrapper for the Riot Games API for League of Legends
+Rubik 	A Rubik's Cube game.
+samuel 	A Draughts Program
+sc2replay-lib 	Basic library for reading details about a Blizzard (TM) StarCraft(TM) 2 replay file
+Shatranj-Chess-Program 	Bitboard based chess engine and toolkit
+simpack 	Pack of tools useful to develop 2D games
+simpletcp 	Simple non-blocking TCP communcation.
+sokoenginepy 	Sokoban and variants game engine
+spectrumwars 	A programming game where players compete for radio bandwidth.
+Sprite-Craft-2D-Engine 	Easy x86/DirectX 2D game engine
+spyral 	A Python library for game development
+sudoku 	An implementation of the classic Sudoku puzzle game using the PyCUI interface
+Sweepy 	A very basic minesweeper clone written in Pylons
+Tapete 	Jogo de Paciência
+tazlib 	Taz - Game Loop and Scene Stack Manager
+tdl 	Pythonic cffi port of libtcod.
+texture 	Micro-engine for creating text-based adventures
+texturepacker 	Assemble texture packs for Minecraft
+tictactoexxl 	A tic-tac-toe game with xxl fun
+trosnoth 	Trosnoth network platform game
+turgles 	An OpenGL ES renderer for LOGO style turtles.
+twitched 	A Python library for quickly writing Twitch chat applications and custom chat bots.
+vais 	Virtual AI Simulator runs agents and players across multiple worlds
+venturer 	A game designed to teach you AI from the ground up
+wernher 	Toolkit for Kerbal Space Program using kRPC
+worldbuild 	Tools for computational world building
+XPpkg 	X-Plane hassle free package installer
+xsge_physics 	xSGE Physics Framework
+YuleLog 	Terminal based X-Mas Yule Log Fireplace
+csumb205-multimedia 	A easier-to-use, academic wrapper class for different multimedia
+emoticry 	Mercilessly translates file names to emoji
+glyphviewer 	A Django app for examining web fonts and the characters they contain.
+mingus 	mingus is a music package for Python
+diapason 	Python module to deal with note sounds.
+WinWallpaper 	Windows Background Changer
+flat-api 	Flat API Client
+mobilechelonian 	Turtles in the Jupyter Notebook
+musictheory 	Provides classes for "music set theory"-like analysis.
+chordgenerator 	A Django app for enumerating chords in a scale.
+matriz 	Networked Music Performance software
+softsynth 	Proof of concept software synthesizer
